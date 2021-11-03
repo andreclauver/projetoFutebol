@@ -1,0 +1,4 @@
+H:\Visual Studio 2019\Projects\3A!_Andre_1\3A!_Andre_1\obj\Debug\3A!_Andre_1.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\3A!_Andre_1\3A!_Andre_1\obj\Debug\_3A__Andre_1.Form1.resources
+H:\Visual Studio 2019\Projects\3A!_Andre_1\3A!_Andre_1\obj\Debug\_3A__Andre_1.Properties.Resources.resources
+H:\Visual Studio 2019\Projects\3A!_Andre_1\3A!_Andre_1\obj\Debug\3A!_Andre_1.csproj.GenerateResource.cache

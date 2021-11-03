@@ -1,0 +1,12 @@
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csprojAssemblyReference.cache
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmPrincipal.resources
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmCursos.resources
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmProfessores.resources
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmTurmas.resources
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.Properties.Resources.resources
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.GenerateResource.cache
+H:\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.exe.config
+H:\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.exe
+H:\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.pdb
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.exe
+H:\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.pdb
